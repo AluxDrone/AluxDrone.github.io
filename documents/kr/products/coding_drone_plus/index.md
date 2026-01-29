@@ -34,7 +34,7 @@
 </style>
 
 <div align="center">
-    <img src="/assets/images/products/byrobot_drone_8.png" alt="coding_drone_plus">
+    <img src="/assets/images/products/Coding_Drone_Plus.png" alt="coding_drone_plus">
     <br>
     <table> 
         <!-- Documents -->
