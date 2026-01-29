@@ -35,14 +35,6 @@
 
 <div align="center">
     <img src="/assets/images/products/byrobot_drone_8.png" alt="coding_drone_plus">
-    <table style="padding: 0px 0px 0px 0px;">
-        <tr>
-            <td width="280" class="documents"><div align="center">&nbsp;<br><a href="#Documents"><span class="odd">Documents</span></a><br>&nbsp;</div></td>
-        </tr>
-        <tr>
-            <td width="140" class="byrobot" colspan="3"><div align="center">&nbsp;<br><span class="byrobot">BYROBOT</span><br>&nbsp;</div></td>
-        </tr>
-    </table>
     <br>
     <table> 
         <!-- Documents -->
@@ -60,4 +52,4 @@
 
 ---
 
-Modified : 2024.6.19
+Modified : 2026.1.29

@@ -1,6 +1,6 @@
 **[Coding Drone Plus](index.md)** / **Protocol** / **Definitions**
 
-Modified : 2024.6.19
+Modified : 2026.1.29
 
 ---
 

@@ -21,8 +21,8 @@ sass:
   style: compressed
 
 # Site Data
-url: "https://AluxDrone.github.io"
-baseurl: "https://dev.byrobot.co.kr"
+url: "https://dev.byrobot.co.kr"
+baseurl: ""
 title: BYROBOT.DEV
 description: "Documents for BYROBOT Products."
 keywords: 'Drone,DroneFighters,Petrone,PetroneV2'
