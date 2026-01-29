@@ -8,12 +8,17 @@ Modified : 2026.1.29
 
 ---
 
-* Kramdown table of contents
-{:toc .toc}
+* Table of contents
+  * [LED control (0x24 ~ 0x27)](#LED_control)
+    * [LED_rainbow (0x24)](#LED_rainbow_0x24)
+    * [LED_flicker (0x25)](#LED_flicker_0x25)
+    * [LED_random (0x26)](#LED_random_0x26)
+    * [LED_individual (0x27)](#LED_individual_0x27)
 
 <br>
 <br>
 
+<a name="LED_control"></a>
 ## LED control (0x24 ~ 0x27)
 
 Coding Drone Plus LED control is handled by separate packet-based commands.
@@ -22,6 +27,7 @@ See the examples below.
 <br>
 <br>
 
+<a name="LED_rainbow_0x24"></a>
 ### LED_rainbow (0x24)
 
 Format:
@@ -47,6 +53,7 @@ Example:
 <br>
 <br>
 
+<a name="LED_flicker_0x25"></a>
 ### LED_flicker (0x25)
 
 Format:
@@ -71,6 +78,7 @@ Example:
 <br>
 <br>
 
+<a name="LED_random_0x26"></a>
 ### LED_random (0x26)
 
 Format:
@@ -85,6 +93,7 @@ Format:
 <br>
 <br>
 
+<a name="LED_individual_0x27"></a>
 ### LED_individual (0x27)
 
 Format:
