@@ -69,6 +69,18 @@
             </td>
         </tr>
         <tr>
+            <td class="white_even" colspan="3">
+                <div align="center">
+                    <a href="/documents/kr/products/coding_drone_plus/">
+                        <span class="even">
+                            <img src="/assets/images/products/byrobot_drone_8.png" alt="coding_drone_plus" height="240" width="240"><br>
+                            CODING DRONE PLUS
+                        </span>
+                    </a>
+                </div>
+            </td>
+        </tr>
+        <tr>
             <td class="white_even">
                 <div align="center">
                     <a href="/documents/kr/products/e_drone/">
