@@ -106,7 +106,7 @@ Format:
 <br>
 <br>
 
-<details>
+<details markdown="1">
 <summary><b>Legacy (rarely used): Protocol::Light definitions and structs</b></summary>
 
 # Definitions
